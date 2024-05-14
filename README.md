@@ -1,1 +1,1 @@
-# Aqui é onde estão os projetos Ciência de Dados impressionador !
+# Aqui é onde estão os projetos Ciência de Dados
